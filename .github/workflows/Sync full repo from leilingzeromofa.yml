@@ -2,7 +2,7 @@ name: Sync full repo from leilingzero/mofa
 
 on:
   schedule:
-    - cron: '0 16 */2 * *'  # 每两天北京时间 00:00 自动运行
+    - cron: '0 * * * *'  # 每小时整点运行（UTC 时间）
   workflow_dispatch:        # 支持手动触发
 
 jobs:
