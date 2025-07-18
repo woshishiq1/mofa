@@ -380,6 +380,7 @@
             "name": "星芽短剧(SP)",
             "type": 3,
             "api": "csp_AppXY",
+            "ext": "https://xvapp.xingya.com.cn",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/PandaQ0715.jpg;md5;59185e76c5cf42b7a5465fbd2c15af06"
         },
         {
@@ -494,16 +495,16 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/PandaQ0715.jpg;md5;59185e76c5cf42b7a5465fbd2c15af06"
         },
         {
-            "key": "奇迹",
-            "name": "奇迹(SP)",
+            "key": "云速",
+            "name": "云速(SP)",
             "type": 3,
             "api": "csp_AppGet",
             "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzfiJ2fHkCRZg4+8NFWs+b1X",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/PandaQ0715.jpg;md5;59185e76c5cf42b7a5465fbd2c15af06"
         },
         {
-            "key": "奇迹2",
-            "name": "奇迹2(SP)",
+            "key": "奇迹",
+            "name": "奇迹(SP)",
             "type": 3,
             "api": "csp_AppGet",
             "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzesNDM87sUul1Ii8NbP2XB5",
@@ -554,94 +555,6 @@
             "name": "FreeOk(SP)",
             "type": 3,
             "api": "csp_FreeOk",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/0618.jpg;md5;9b8e295927dccaf6f96cd9008174fe11"
-        },
-        {
-            "key": "晴天",
-            "name": "晴天(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "sHR2rlsfjI4L3t4RXQMknxZ67tu9z+phb0aSTvZQgyA6q0xr5CADU+Ci4NlKxGdylKHER46Cs4iIIIx6DdbWw0Sng/Z0F+jfaucg9epO4FUb/E7RG8NezsS+R4Dvsb4o50UjQG9bvlSBY9p/s5XD9KtJNMrH5tj1EbC6eEwZ4KOT7oCjM7uBxZRVhTmijQCvcoza/h46Fz6BrnGO68PxIg==",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/0618.jpg;md5;9b8e295927dccaf6f96cd9008174fe11"
-        },
-        {
-            "key": "再看",
-            "name": "再看(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "sHR2rlsfjI4L3t4RXQMknz+i4ffRorIRZjjcJiBr38wb5nwBciO6ms6RNqBIVi1QB7PRspm4f6MrvIOTd++7FMqkk2yG1eGTUUzyqIbYT58chQYyOMy+COm7unddRux9fFr5h0OEYTptHw9PnRiTV+JAXmIsIgUDKAamVsoOxAyhlMsA0WCzqY0OMMVhCnjjZNeioODGEF/HaKVwMC7i7GkxX/1SkEhN54oZYjGADVp/JQD55mycg7C8p5BmUHb0",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/0618.jpg;md5;9b8e295927dccaf6f96cd9008174fe11"
-        },
-        {
-            "key": "彼岸",
-            "name": "彼岸(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn0ZmfVTKTXBPRcz0emJNw7pive6/WM9lust5Mt+RF4YRlDNEqLNoLHMx2qn+8fd0eeM4V2kMkA0AtjiEOHJ8KkF1wXdkUnKYxfPeZzUR9DPL4ibrDZHcqEiciYyRtFbBPJ6wn4UwyK3sRMYvcp88bKXb1kZFtpPzbXRluHIQ+0V8YcKK00L4/rQRn30RHCf5UA==",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/0618.jpg;md5;9b8e295927dccaf6f96cd9008174fe11"
-        },
-        {
-            "key": "人人",
-            "name": "人人(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "sHR2rlsfjI4L3t4RXQMknw+zXdsvYSFPrylVBk8Otj7BtrOcImUIxu7uCmi/oCEVSH+1Tuw/tXHzW47SGQsj8bRydPRgWesjHAxv9eu8eO9hOGeUeBKsucMHODs09HXY4kiPp3p1vemBghpvJFm9mx/FFTQYaEQ33Bpqwk73VkDa2zWgoB0CNuBseJhbj2hRKqOiT08iymzh4sSfhjJ5tbS5yTDxPIJAjwMijWuyOJB++d859vxajKD2Jg5qw0lv",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/0618.jpg;md5;9b8e295927dccaf6f96cd9008174fe11"
-        },
-        {
-            "key": "开心",
-            "name": "开心(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "sHR2rlsfjI4L3t4RXQMknwLb+pplEIC+wdpO7p1FXlVxu/4/lgFTBTqK2PELmPAwfVSnMzsviWAL5eVFeiQ0JSGBExirA/KcXHk4dMKuYsempv7Rf+ybRNg2nVTlfYeOPdPjSLhUQ+6w4z9Rc/oR3krCOo37zalPV36PNBD9rWDQVeaVRQTovbLpuTLS0Aspeatl+bvo/hCXG6m7QW/yww==",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/0618.jpg;md5;9b8e295927dccaf6f96cd9008174fe11"
-        },
-        {
-            "key": "海豚2",
-            "name": "海豚2(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "sHR2rlsfjI4L3t4RXQMknx77uAkBngyVCOo9nRhjtYEYVZhfCVy1trqBss1N9z/rDj66qnYWTA57CvnxJsOMbb1R0y0vBLYBpNMTyfbz36dsqgawYeyyXpTwdiQYs9rb4CFK1aW6bX+LcZiFVV4uzNbizESdy9tdeYkjDnNiCbfRD1K5N84R+TKB+U4Im7pOR8gnvFFwwx6KSDahektkXrxVKpbBw/neJaeyX3K+BkxPEzxo40Ecg3vBNUzl7RZs",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/0618.jpg;md5;9b8e295927dccaf6f96cd9008174fe11"
-        },
-        {
-            "key": "优质",
-            "name": "优质(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "hN4H3ccT+y6iapwG7kunJ4SmldFmZ1hfH8vlRYDhyV5lfJpsQugjNIfE7uQfJXIgaAIWglsN2NfMYlZPot87Gre40WQdwciyfLKJ5Gg3XlHFpl7nLgatKdxJj3+4Jz2D77KnIzS2wHbydsXI1Bmc6NfBz1dN17CNgrwCehKFKGLFi556QQL4FFKyk7EDk3IdoABCDBSrssej/v08+FKRU/W1TJr5vaRY7V69vIrentbM69VlqA2KI4qXqc8H3VDSjekl5AY3Fakh9JGwniItdw==",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/0618.jpg;md5;9b8e295927dccaf6f96cd9008174fe11"
-        },
-        {
-            "key": "云速",
-            "name": "云速(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "0evJofTC3SDpNrfOmmIChloowwLlacEkTpPXHQGvnuCpyCfTv9+5Hw5j0SotfVBcEq8fDKoU6OPigTkxuxrtKQW49bxv497xKTtkiqnzuYtFR20r0/AERsnnPXGiHNlAl7LsuYnvTFyIam1RXbHBPyoihFRMLrOuCIEjkigiDACt5Ab3Mljmzanr/arLhmiidNNE2nwe4WXh866ANBt6BpgAajtWgtcj7v6tywA72VqJepkhwiqJEwFD3ZI07QvYoSu93TELWKv8sIpK86TiWw==",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/0618.jpg;md5;9b8e295927dccaf6f96cd9008174fe11"
-        },
-        {
-            "key": "光速",
-            "name": "光速(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn97hxHYaEbu5lFfPUXOxEzpAZL11z+ayZEbLSb3vs/v8ZS0i6U3Oh/aCVpUdIeZzRgc5TQyB2k7aC0UwqxoW281lBnRyLoSPb+ejqJ92E4RYuH9BABywIr8NA9Bn0Ndnl5c+AJCGNVdUwDUcd6fmGzQoQ+VuzRpX5xfgCbnpjcTp56dL50nhDb7IIe7CtKv7pA==",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/0618.jpg;md5;9b8e295927dccaf6f96cd9008174fe11"
-        },
-        {
-            "key": "咕咕",
-            "name": "咕咕(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "sHR2rlsfjI4L3t4RXQMknxpaIJpWVf3QzJplZjkP8PMRCMAhDX6EuvKn3nmHvaAsNUZGiKejIkSYz7ryONX2fTpbNlJxpW1MZZY7Zt3lbwTJw/1s2QIhPpqxOmR/0EWAwYNShA0Asl0C1lkcmCbV6PsNna5kYEh7as/WabRCm9KrPTGJu6URWhPGeAaWchMgMYJlwNXFIeA2neoQGplg4A==",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/0618.jpg;md5;9b8e295927dccaf6f96cd9008174fe11"
-        },
-        {
-            "key": "csp_仓鼠",
-            "name": "仓鼠(SP)",
-            "type": 3,
-            "api": "csp_AppGet2",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn85YdqME5ZFXdHXyEUNrexXmXuKOZHlPhQJvT6ZKEMODJQuGTLg+gpKS+XoOxUH8DdjcutGqV/lfrY9l/Ww/J/LYA0AH34KTXsOeg1p5p+KSYaG5at+IT/dqPugeQjLLpkECHqWJpIs4B2evdM7dDIOBuPmMrT5lbU1yNZHMNkr8tConVxhS1qlq57WIByuNTQ==",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/0618.jpg;md5;9b8e295927dccaf6f96cd9008174fe11"
         },
         {
@@ -758,36 +671,6 @@
             "filterable": 1,
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/XP/gj5.json",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
-        },
-        {
-            "key": "咖啡",
-            "name": "咖啡(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/py/咖啡.py"
-        },
-        {
-            "key": "咖啡2",
-            "name": "咖啡2",
-            "type": 3,
-            "api": "https://13826.kstore.space/get4.py",
-            "ext": {
-                "host": "http://114.66.43.200/",
-                "api": "/api.php/getappapi",
-                "datakey": "123456789ABCDEFG",
-                "dataiv": "123456789ABCDEFG"
-            }
-        },
-        {
-            "key": "咖啡3",
-            "name": "咖啡3",
-            "type": 3,
-            "api": "https://13826.kstore.space/get3.py",
-            "ext": {
-                "host": "https://omofun.lol/coffee.txt",
-                "api": "/api.php/qijiappapi",
-                "datakey": "qwertyuiopqwertt",
-                "dataiv": "qwertyuiopqwertt"
-            }
         },
         {
             "key": "剧霸",
@@ -1175,22 +1058,29 @@
             "ext": "http://jxfmax.juxiafan.com/icciu_api.php/v1.vod"
         },
         {
+            "key": "起点",
+            "name": "起点(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2Guard",
+            "ext": "http://172.83.156.150:1010/api.php/app/"
+        },
+        {
             "key": "空城",
-            "name": "空城影视(V2)",
+            "name": "空城(V2)",
             "type": 3,
             "api": "csp_AppYsV2Guard",
             "ext": "http://itv.zwzs.fun/api.php/app/"
         },
         {
             "key": "小枫",
-            "name": "小枫影视(V2)",
+            "name": "小枫(V2)",
             "type": 3,
             "api": "csp_AppYsV2Guard",
             "ext": "http://m.xiaofengtv.com/api.php/app/"
         },
         {
-            "key": "华文影视",
-            "name": "华文影视(V2)",
+            "key": "华文",
+            "name": "华文(V2)",
             "type": 3,
             "api": "csp_AppYsV2Guard",
             "ext": "http://zytv.eztv.video/api.php/app/"
