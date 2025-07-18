@@ -178,7 +178,8 @@ class Spider(Spider):
         headers = {
             'User-Agent': 'okhttp/3.14.9'
         }
-        response = self.fetch('https://cdn-tupic-duofun-neimenggu.56uxi.com/2.txt',headers=headers).text
+#       response = self.fetch('https://cdn-tupic-duofun-neimenggu.56uxi.com/2.txt',headers=headers).text
+        response = self.fetch('https://omofun.lol/coffee.txt',headers=headers).text
         return response.strip()
 
     def getdid(self):

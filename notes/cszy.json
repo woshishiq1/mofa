@@ -522,7 +522,7 @@
             "name": "咖啡(SP)",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "Koog6uPyOjHNZh8eY8CgUL+XGp1zR8d/K2NE9Ls6xomS8zNeZA6OEFwcZ27Zy0ZH9i0JczXR1zmcv9qIihz837BdnQrvJfE8QEyUmS3qKxs=",
+            "ext": "kzWGWFofGVJ3C/RF+lgwJ2duecy3bVUlIwiw6yr3vD1a1VenykG71Lx0iDGhqS6msfs2NS2llsxT5Z93XTR5ow==",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/jar/PandaQ0715.jpg;md5;59185e76c5cf42b7a5465fbd2c15af06"
         },
         {
@@ -771,7 +771,7 @@
             "type": 3,
             "api": "https://13826.kstore.space/get4.py",
             "ext": {
-                "host": "http://149.88.64.161/",
+                "host": "http://114.66.43.200/",
                 "api": "/api.php/getappapi",
                 "datakey": "123456789ABCDEFG",
                 "dataiv": "123456789ABCDEFG"
@@ -783,7 +783,7 @@
             "type": 3,
             "api": "https://13826.kstore.space/get3.py",
             "ext": {
-                "host": "https://cdn-tupic-duofun-neimenggu.56uxi.com/2.txt",
+                "host": "https://omofun.lol/coffee.txt",
                 "api": "/api.php/qijiappapi",
                 "datakey": "qwertyuiopqwertt",
                 "dataiv": "qwertyuiopqwertt"
